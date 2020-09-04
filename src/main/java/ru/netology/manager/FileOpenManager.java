@@ -1,4 +1,4 @@
-package manager;
+package ru.netology.manager;
 
 
 import java.util.*;
